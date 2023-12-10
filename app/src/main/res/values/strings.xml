@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoToDoList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">Categories</string>
+    <string name="tasks_to_do">Tasks to do\n</string>
+    <string name="settings">Settings\n</string>
+    <string name="notification">Notification\n</string>
+    <string name="low_priority_tasks">Low priority tasks\n</string>
+    <string name="medium_priority_tasks">Medium priority tasks\n</string>
+</resources>
