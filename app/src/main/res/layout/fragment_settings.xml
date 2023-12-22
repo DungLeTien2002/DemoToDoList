@@ -115,30 +115,7 @@
                 android:textSize="16sp"
                 android:textStyle="bold" />
 
-            <com.google.android.material.card.MaterialCardView
-                style="@style/Widget.App.CardView"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:elevation="8dp"
-                app:strokeColor="@color/light_grey"
-                app:strokeWidth="1dp">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:padding="15dp"
-                    android:text="Dark Theme" />
-
-                <com.google.android.material.switchmaterial.SwitchMaterial
-                    android:id="@+id/dark_theme"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="end"
-                    app:thumbTint="@drawable/switch_thumb_selector"
-                    app:trackTint="@drawable/switch_track_selector" />
-
-            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/rateApp"
